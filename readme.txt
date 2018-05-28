@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
 hello git
-test merger
+Creating a new branch is quick & simple.
